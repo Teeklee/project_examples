@@ -1,0 +1,1 @@
+A little collection of examples for some common golang linters.
