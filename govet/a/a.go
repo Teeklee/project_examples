@@ -1,3 +1,5 @@
+//Copyright (c) 2014 [Dominik Honnef] 
+
 package main
 
 import (
